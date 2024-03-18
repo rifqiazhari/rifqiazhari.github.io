@@ -8,7 +8,7 @@
 
 abcd
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/regression1.png"/></center>
 
 ---
 ### Classification - Spaceship Titanic
@@ -17,30 +17,30 @@ abcd
 
 <div style="text-align: justify">axaxa.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/classification1.png"/></center>
 
 ---
 ## Convolutional Neural Networks (CNN)
 
 ### MNIST Digit Recognizer with TensorFlow
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ss.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/html/cifar10final.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](scsction)
 
 <div style="text-align: justify">abcd.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/mnist.png"/></center>
 <br>
 
 ---
 ### CIFAR-10 Image Classification using VGG16 and ResNet50 with TensorFlow
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](ccc.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/html/cifar10final.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)]()
 
 <div style="text-align: justify">absc</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/cifar10.png"/></center>
 <br>
 
 ---
