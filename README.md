@@ -15,7 +15,7 @@ Top 40% in Kaggle
 <center><img src="images/regression1.png"/></center>
 
 ---
-### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, Catboost Classifier using Scikit-learn
+### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, Catboost Classifier using Scikit-learn (Top 15% in Kaggle)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rifqiazhari/Portfolios/blob/main/Classification%20-%20Spaceship%20Titanic.ipynb)
 
@@ -32,7 +32,7 @@ Top 15% in Kaggle
 ---
 ## Convolutional Neural Networks (CNN)
 
-### MNIST Digit Recognizer with TensorFlow
+### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 20% in Kaggle)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/html/cifar10final.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](scsction)
