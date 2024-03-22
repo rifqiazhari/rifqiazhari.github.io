@@ -27,7 +27,7 @@ Top 15% in Kaggle
 
 <div style="text-align: justify">axaxa.</div>
 
-<center><img src="images/classification1.png"/  width="128" height="128"></center>
+<center><img src="images/classification1.png"/  width="32" height="32"></center>
 ---
 ## Deep Learning (Including Computer Vision)
 
