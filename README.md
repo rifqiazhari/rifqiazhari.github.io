@@ -1,6 +1,6 @@
-# Portfolio (in maintenance until 18 March 21.00 WIB)
+# Data Science Portfolio
 ---
-## Data Science
+## Machine Learning
 
 ### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, and Lightgbm using Scikit-learn
 
@@ -30,7 +30,7 @@ Top 15% in Kaggle
 <center><img src="images/classification1.png"/></center>
 
 ---
-## Convolutional Neural Networks (CNN)
+## Deep Learning (Including Computer Vision)
 
 ### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 20% in Kaggle)
 
