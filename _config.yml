@@ -4,7 +4,7 @@ logo: "/picture/picture-modified.png?raw=true"
 
 description:
   <p align="center">
-  <a href="resume/resume.pdf">Resume</a> |
+  <a href="file/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a> |
   <a href="https://github.com/rifqiazhari">GitHub</a> |
   <a href="https://www.kaggle.com/irahza">Kaggle</a>
@@ -18,11 +18,11 @@ description:
   </p>
 
   <p align="center">
-  <a href="file/resume.pdf">Robotics Portfolio</a>
+  <a href="file/robotics_portfolio.pdf">Robotics Portfolio</a>
   </p>
 
   <p align="center">
-  <a href="file/resume.pdf">Publication</a>
+  <a href="https://academic.oup.com/ce/article/6/5/776/6786002">Publication</a>
   </p>
   
 theme: jekyll-theme-minimal
