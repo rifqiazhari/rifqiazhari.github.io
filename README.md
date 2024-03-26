@@ -50,7 +50,7 @@ Top 20% in Kaggle
 ---
 ### CIFAR-10 Image Classification using VGG16 and ResNet50 with TensorFlow
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/html/cifar10final.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html/cifar10final.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)]()
 
 CIFAR-10  is an established computer-vision dataset used for object recognition. It is a subset of the 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10 object classes, with 6000 images per class. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. In this case, we will use the 60,000 32x32 color images, 50,000 for the training set and 10,000 for the test set.
