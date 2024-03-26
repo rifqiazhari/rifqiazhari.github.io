@@ -9,18 +9,15 @@ description:
   <a href="https://github.com/rifqiazhari">GitHub</a> |
   <a href="https://www.kaggle.com/irahza">Kaggle</a>
   </p>
-  
   <p align="justify">
   Engineering graduate from Universitas Indonesia. 2x Project Manager in Flying Robotics Research Team in International and National Competition. 2x Teaching Assistant for two different math subjects (Calculus & Control Systems) at the Faculty of Engineering Universitas Indonesia.
   <br><be>
   </p>
 
   <p align="center">
-  <a href="file/robotics_portfolio.pdf">Robotics Portfolio</a>
-  </p>
-
-  <p align="center">
+  <a href="file/robotics_portfolio.pdf">Robotics Portfolio</a> |
   <a href="https://academic.oup.com/ce/article/6/5/776/6786002">Publication</a>
+  <a href="file/certifications.pdf">Certifications</a>
   </p>
   
 theme: jekyll-theme-minimal
