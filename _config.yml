@@ -16,5 +16,10 @@ description:
   Aspiring Process/Production Engineer, Data Scientist, Supply Chain Management
   <br><br>
   </p>
+
+description:
+  <p align="center">
+  <a href="resume/resume.pdf">Resume</a>
+  </p>
   
 theme: jekyll-theme-minimal
