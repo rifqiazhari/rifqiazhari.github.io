@@ -12,7 +12,7 @@ We use many regression algorithms to build the model for this case. From what we
 
 Top 13% in Kaggle
 
-<center><img src="images/regression1.png"/></center>
+<center><img src="images/regression12.png"/></center>
 
 ---
 ### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, Catboost Classifier using Scikit-learn (Top 7% in Kaggle)
