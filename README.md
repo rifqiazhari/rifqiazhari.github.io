@@ -29,8 +29,11 @@ Top 7% in Kaggle
 
 <div style="text-align: justify">axaxa.</div>
 
-<center><img src="images/classification1.png"/  width="32" height="32"></center>
+<center><img src="images/classification1.png"/  width="500" height="128"></center>
+<img src="images/classification1.png"/  width="500" height="128"><img src="images/classification1.png"/  width="500" height="128">
+
 ---
+
 ## Deep Learning (Including Computer Vision)
 
 ### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 20% in Kaggle)
