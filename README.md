@@ -5,7 +5,8 @@
 ### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, Lightgbm Regression, and CatBoost Regression with Cross Validation (Top 13% in Kaggle)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html3/houseprice.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](python/houseprice.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/python/houseprice.ipynb)
+[![Download Notebook](https://img.shields.io/badge/Download%20Notebook-8A2BE2)](python/houseprice.ipynb)
 
 When buying a house, customers usually have considerations about things like the presence of a garage, the number of bedrooms, the number of floors, and the age of the house. On this occasion, we are given The Ames Housing dataset compiled by Dean De Cock and provided by Kaggle. This dataset talks about many variables of houses from the count into its variable area. Our objective is to predict the sales price for each house.
 
@@ -19,7 +20,8 @@ Top 13% in Kaggle
 ### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, GradientBoosting Classifier, Catboost Classifier with Cross Validation (Top 7% in Kaggle)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html3/spaceship.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](python/spaceship.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/python/spaceship.ipynb)
+[![Download Notebook](https://img.shields.io/badge/Download%20Notebook-8A2BE2)](python/spaceship.ipynb)
 
 In 2912, The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars. While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension!
 
