@@ -18,7 +18,11 @@ description:
   </p>
 
   <p align="center">
-  <a href="resume/resume.pdf">Resume</a>
+  <a href="file/resume.pdf">Robotics Portfolio</a>
+  </p>
+
+  <p align="center">
+  <a href="file/resume.pdf">Publication</a>
   </p>
   
 theme: jekyll-theme-minimal
