@@ -2,7 +2,7 @@
 ---
 ## Machine Learning
 
-### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, and Lightgbm using Scikit-learn
+### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, and Lightgbm using Scikit-learn (Top 13% in Kaggle)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rifqiazhari/Portfolios/blob/main/Regression%20-%20House%20Prices.ipynb)
 
@@ -10,12 +10,12 @@ When buying a house, customers usually have considerations about things like the
 
 We use many regression algorithms to build the model for this case. From what we worked on, the results stated that The XGBoost makes the best prediction with a score of 0.14363 followed by Ridge Regression with 0.16462, Lasso Regression with 0.18133, and Linear Regression with 0.19303. Improvement still can be made by adding target-encoding to high cardinality variables, applying cross-validation (CV), and deeper EDA.
 
-Top 40% in Kaggle
+Top 13% in Kaggle
 
 <center><img src="images/regression1.png"/></center>
 
 ---
-### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, Catboost Classifier using Scikit-learn (Top 15% in Kaggle)
+### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, Catboost Classifier using Scikit-learn (Top 7% in Kaggle)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rifqiazhari/Portfolios/blob/main/Classification%20-%20Spaceship%20Titanic.ipynb)
 
@@ -23,7 +23,7 @@ In 2912, The Spaceship Titanic was an interstellar passenger liner launched a mo
 
 From this unique case, we have an objective to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. We use many classification algorithms for this binary classification case. From what we worked on, the results stated that the Catboost Classifier makes the best classifier algorithm with 0.80 accuracy on the test set followed by Random Forest with 0.99, SVM with 0.99, Decision Trees with 0.88, KNN with 0.42, Logistic Regression with 0.24.
 
-Top 15% in Kaggle
+Top 13% in Kaggle
 
 <div style="text-align: justify">axaxa.</div>
 
