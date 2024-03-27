@@ -31,8 +31,7 @@ Top 7% in Kaggle
 
 <div style="text-align: justify">axaxa.</div>
 
-<center><img src="images/classification1.png"/  width="500" height="128"></center>
-<img src="images/classification1.png"/  width="500" height="128"><img src="images/classification1.png"/  width="500" height="128">
+<center><img src="images/classification.jpg"/></center>
 
 ---
 
