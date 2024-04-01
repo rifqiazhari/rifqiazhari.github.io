@@ -33,7 +33,7 @@ From this unique case, I have an objective to predict whether a passenger was tr
 
 ## Deep Learning (Including Computer Vision)
 
-### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 9% in Kaggle)
+### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 9% in Kaggle - Solo)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)](html3/mnist tensorflow.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_PyTorch_Notebook-green?logo=Jupyter)]()
