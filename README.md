@@ -25,7 +25,7 @@ In 2912, The Spaceship Titanic was an interstellar passenger liner launched a mo
 
 From this unique case, I have an objective to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. We use many classification algorithms for this binary classification case. From what I worked on, the results stated that the Catboost Classifier makes the best classifier algorithm with 0.80 accuracy on the test set followed by Random Forest with 0.99, SVM with 0.99, Decision Trees with 0.88, KNN with 0.42, Logistic Regression with 0.24.
 
-<div style="text-align: justify">testtesttest</div>
+<div style="text-align: justify"></div>
 
 <center><img src="images/classification.jpg"/></center>
 
