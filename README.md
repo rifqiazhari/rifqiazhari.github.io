@@ -33,18 +33,18 @@ From this unique case, I have an objective to predict whether a passenger was tr
 
 ## Deep Learning (Including Computer Vision)
 
-### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 20% in Kaggle)
+### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 9% in Kaggle)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)](html3/mnist tensorflow.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_PyTorch_Notebook-green?logo=Jupyter)]()
 
 This time I am provided MNIST data from Kaggle. MNIST data is a collection of 70,000 handwritten digit images. Our goal is to build a model that classifies each image of MNIST data into 10 different classes or digits (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9). The data is separated between the training and test datasets with the 60:40 proportion. In other to evaluate our model, I need to match our predicted data to the actual data on the Kaggle website.
 
 We want to make prediction models using Convolutional Neural Network (CNN). The MNIST image was originally in 28x28 format but the data from Kaggle is in flattened format so we need to do some preprocessing to convert it to the original image dimension.
 
-<div style="text-align: justify">abcd.</div>
+<div style="text-align: justify">For now only available in TensorFlow</div>
 <br>
-<center><img src="images/mnist.png"/></center>
+<center><img src="images/mnist2.png"/></center>
 <br>
 
 ---
@@ -57,7 +57,7 @@ CIFAR-10  is an established computer-vision dataset used for object recognition.
 
 Our objective is to build a model that could precisely classify the 10,000 test data. 
 
-<div style="text-align: justify">absc</div>
+<div style="text-align: justify">The model is still in development since the parameters could up to 27 million.</div>
 <br>
 <center><img src="images/cifar10.png"/></center>
 <br>
