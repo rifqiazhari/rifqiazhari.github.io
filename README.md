@@ -35,7 +35,7 @@ From this unique case, I have an objective to predict whether a passenger was tr
 
 ### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 9% in Kaggle - Solo)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)](html3/mnist tensorflow.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)](html3/mnisttensorflow.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_PyTorch_Notebook-green?logo=Jupyter)]()
 
 This time I am provided MNIST data from Kaggle. MNIST data is a collection of 70,000 handwritten digit images. Our goal is to build a model that classifies each image of MNIST data into 10 different classes or digits (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9). The data is separated between the training and test datasets with the 60:40 proportion. In other to evaluate our model, I need to match our predicted data to the actual data on the Kaggle website.
