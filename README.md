@@ -35,7 +35,8 @@ From this unique case, I have an objective to predict whether a passenger was tr
 
 ### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 20% in Kaggle)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/html/cifar10final.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_PyTorch_Notebook-green?logo=Jupyter)]()
 
 This time I am provided MNIST data from Kaggle. MNIST data is a collection of 70,000 handwritten digit images. Our goal is to build a model that classifies each image of MNIST data into 10 different classes or digits (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9). The data is separated between the training and test datasets with the 60:40 proportion. In other to evaluate our model, I need to match our predicted data to the actual data on the Kaggle website.
 
@@ -49,11 +50,8 @@ We want to make prediction models using Convolutional Neural Network (CNN). The 
 ---
 ### CIFAR-10 Image Classification using VGG16 and ResNet50 with TensorFlow
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html3/cifar10final.html)
-<br>
-![TensorFlsow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%56EE4C2C.svg?&logo=PyTorch&logoColor=white)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_PyTorch_Notebook-green?logo=Jupyter)]()
 
 CIFAR-10  is an established computer-vision dataset used for object recognition. It is a subset of the 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10 object classes, with 6000 images per class. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. In this case, we will use the 60,000 32x32 color images, 50,000 for the training set and 10,000 for the test set.
 
