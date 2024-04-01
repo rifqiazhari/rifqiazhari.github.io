@@ -44,7 +44,7 @@ We want to make prediction models using Convolutional Neural Network (CNN). The 
 
 <div style="text-align: justify">For now only available in TensorFlow</div>
 <br>
-<center><img src="images/mnist2.png"/></center>
+<center><img src="images/mnist2.jpg"/></center>
 <br>
 
 ---
