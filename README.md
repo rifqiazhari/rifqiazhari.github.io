@@ -70,10 +70,9 @@ Our objective is to build a model that could precisely classify the 10,000 test 
 [![Open Notebook](https://img.shields.io/badge/Medium-Open_Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rifqiazhari/building-a-baseball-team-with-limited-budget-40m-for-2002-mlb-season-84222de82913)
 
 We want to build a baseball team with a limited budget of forty million dollars for the 2002 MLB season. We will explore the data from Lahman Library from R which include team-level and player-level statistics.
-
 <br>
 <center><img src="images/baseball.jpg"/></center>
-<be>
+<br>
 
 ---
 ## Visualization
@@ -83,7 +82,6 @@ We want to build a baseball team with a limited budget of forty million dollars 
 [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/rifqiazhari)
 
 The data for visualizations are mostly from web scrapping.
-
 <br>
 <center><img src="images/tableau.jpg"/></center>
 <br>
