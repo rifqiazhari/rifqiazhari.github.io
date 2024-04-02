@@ -31,7 +31,7 @@ From this unique case, I have an objective to predict whether a passenger was tr
 
 ---
 
-## Deep Learning (Including Computer Vision)
+## Deep Learning (Computer Vision)
 
 ### MNIST Digit Recognizer using VGG16 and ResNet50 with TensorFlow (Top 9% in Kaggle - Solo)
 
@@ -59,8 +59,30 @@ Our objective is to build a model that could precisely classify the 10,000 test 
 
 <div style="text-align: justify">The model is still in development since the parameters could up to 27 million.</div>
 <br>
-<center><img src="images/cifar10.png"/></center>
-<br>
+<center><img src="images/cifar102.jpg"/></center>
+<be>
 
 ---
-<center>© 203 vsve. Powered by Jekyll and the Minimal Theme.</center>
+## Data Science (R)
+
+### Building a Baseball Team with Limited Budget ($40M) for 2002 MLB Season (code in R)
+
+[![Open Notebook](https://img.shields.io/badge/Medium-Open_Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rifqiazhari/building-a-baseball-team-with-limited-budget-40m-for-2002-mlb-season-84222de82913)
+
+We want to build a baseball team with a limited budget of forty million dollars for the 2002 MLB season. We will explore the data from Lahman Library from R which include team-level and player-level statistics.
+
+<center><img src="images/baseball.jpg"/></center>
+
+---
+## Visualization
+
+### Tableau Visualization
+
+[![Open Notebook](https://img.shields.io/badge/Tableau-Open_Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/rifqiazhari)
+
+The data for visualizations are mostly from web scrapping.
+
+<center><img src="images/tableau.jpg"/></center>
+
+---
+<center>© 2024. Powered by Jekyll and the Minimal Theme.</center>
