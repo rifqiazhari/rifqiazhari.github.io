@@ -60,7 +60,7 @@ Our objective is to build a model that could precisely classify the 10,000 test 
 <div style="text-align: justify">The model is still in development since the parameters could up to 27 million.</div>
 <br>
 <center><img src="images/cifar102.jpg"/></center>
-<be>
+<br>
 
 ---
 ## Data Science (R)
@@ -71,7 +71,9 @@ Our objective is to build a model that could precisely classify the 10,000 test 
 
 We want to build a baseball team with a limited budget of forty million dollars for the 2002 MLB season. We will explore the data from Lahman Library from R which include team-level and player-level statistics.
 
+<br>
 <center><img src="images/baseball.jpg"/></center>
+<be>
 
 ---
 ## Visualization
@@ -82,7 +84,9 @@ We want to build a baseball team with a limited budget of forty million dollars 
 
 The data for visualizations are mostly from web scrapping.
 
+<br>
 <center><img src="images/tableau.jpg"/></center>
+<br>
 
 ---
 <center>© 2024. Powered by Jekyll and the Minimal Theme.</center>
