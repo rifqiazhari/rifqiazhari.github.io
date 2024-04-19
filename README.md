@@ -75,6 +75,32 @@ We want to build a baseball team with a limited budget of forty million dollars 
 <br>
 
 ---
+## Forecasting
+### Store Item Demand Forecasting Challenge (In the process of editing)
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)]()
+
+I have been given a dataset of 5 years of store-item sales and I want to predict 3 months of sales for 50 different items at 10 different stores.
+
+From the dataset I also want to answer this question: (i) What's the best way to deal with seasonality? Should stores be modeled separately, or can you pool them together?
+
+In the process of editing.
+<br>
+
+---
+## Analytics Only
+### Ice Cream Sales Rating (In the process of editing)
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_TensorFlow_Notebook-green?logo=Jupyter)]()
+
+This dataset contains details (including ingredients), images, and reviews of 241 ice cream flavors across 4 brands (Ben & Jerry's, Häagen-Dazs, Breyers, and Talenti). There are a total of 21,674 reviews, with each review containing star ratings and text.
+
+From the dataset I want to answer these questions: (i) Which brand has the most recommended products? (ii) Which brand has the most bad products? (iii) Which product has the highest rating? (iv) Which product has the lowest rating? (v) Which product that has the highest sales?
+
+In the process of editing.
+<br>
+
+---
 ## Visualization
 
 ### Tableau Visualization
