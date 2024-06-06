@@ -8,7 +8,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/python/houseprice.ipynb)
 [![Download Notebook](https://img.shields.io/badge/Download%20Notebook-8A2BE2)](python/houseprice.ipynb)
 
-<a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a>
+# <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a>
 a {font-size: 100px}
 
 <a href="selectTopic?html" style="font-size: 1000px; text-decoration: none">HTML 5</a>
