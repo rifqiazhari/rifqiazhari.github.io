@@ -9,6 +9,7 @@
 [![Download Notebook](https://img.shields.io/badge/Download%20Notebook-8A2BE2)](python/houseprice.ipynb)
 
 <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a>
+a {font-size: 100px}
 
 <a href="selectTopic?html" style="font-size: 1000px; text-decoration: none">HTML 5</a>
 
