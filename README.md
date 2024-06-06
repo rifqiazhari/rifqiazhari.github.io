@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a>
 
-<a href="selectTopic?html" style="font-size: 100px; text-decoration: none">HTML 5</a>
+<a href="selectTopic?html" style="font-size: 1000px; text-decoration: none">HTML 5</a>
 
 When buying a house, customers usually have considerations about things like the presence of a garage, the number of bedrooms, the number of floors, and the age of the house. On this occasion, I am given The Ames Housing dataset compiled by Dean De Cock and provided by Kaggle. This dataset talks about many variables of houses from the count into its variable area. Our objective is to predict the sales price for each house.
 
