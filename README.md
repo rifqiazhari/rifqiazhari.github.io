@@ -7,10 +7,10 @@
 <br>
 <br>
 <br>
-<a href="https://rifqiazhari.github.io/projects/" style="font-size: 33px; text-decoration: none">Project Management Portfolio</a>
+<a href="https://rifqiazhari.github.io/projects/" style="font-size: 33px; text-decoration: none">⇨ Project Management Portfolio</a>
 <br>
 <br>
-<a href="https://rifqiazhari.github.io/analytics/" style="font-size: 33px; text-decoration: none">Data Analytics Portfolio</a>
+<a href="https://rifqiazhari.github.io/analytics/" style="font-size: 33px; text-decoration: none">⇨ Data Analytics Portfolio</a>
 <br>
 <br>
 <br>
