@@ -10,6 +10,8 @@
 
 <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a>
 
+<a href="selectTopic?html" style="font-size: 100px; text-decoration: none">HTML 5</a>
+
 When buying a house, customers usually have considerations about things like the presence of a garage, the number of bedrooms, the number of floors, and the age of the house. On this occasion, I am given The Ames Housing dataset compiled by Dean De Cock and provided by Kaggle. This dataset talks about many variables of houses from the count into its variable area. Our objective is to predict the sales price for each house.
 
 I use many regression algorithms to build the model for this case. From what I worked on, the results stated that The CatBoost Regression makes the best prediction with score 0.12635 (TOP 13%) followed by Lightgbm Regression with 0.13600, XGBoost Regression with 0.13846, Random Forest Regression with 0.14769, Ridge Regression with 0.16393, Lasso Regression with 0.18259, Linear Regression with 0.19824. Improvement still can be make by adding by applying cross-validation (CV), and more deeper EDA.
